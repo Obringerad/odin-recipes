@@ -1,0 +1,39 @@
+*{
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    text-align: center;
+    float: left;
+}
+.odinl{
+    width:10%;
+    height: auto;
+    float: left;
+    display: block;
+    margin-left: 30%;
+}
+.odinr{
+    width:10%;
+    height: auto;
+    display: block;
+    margin: none;
+}
+.list{
+    margin-left: 42%;
+    list-style-type: none;
+}
+.food-img{
+    width:250px;
+    height: auto;
+}
+.center{
+    text-align: center;
+    list-style-position: inside;
+}
+.logo{
+    width: 50px;
+    height: auto;
+    display: inline;
+    float: left;
+}
